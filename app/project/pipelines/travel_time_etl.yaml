@@ -1,0 +1,11 @@
+name: travel_time_etl
+config:
+  log_folder_path: "./project/logs"
+schedule:
+<<<<<<< HEAD:project/pipelines/travel_time.yaml
+  run_seconds: 3
+  poll_seconds: 1
+=======
+  run_seconds: 5
+  poll_seconds: 2
+>>>>>>> f6cfadbcd31ff46ebd36791c3d24cff51986d28b:app/project/pipelines/travel_time_etl.yaml
