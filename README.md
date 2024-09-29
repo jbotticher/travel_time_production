@@ -2,7 +2,7 @@
 # **Travel Time API ELT Project**
 ## Production code version
 
-_Josh B_ - _Shruti S_ - _Alex H_
+Authors: _Josh B_ - _Shruti S_ - _Alex H_
 
 ## Objective:
 The use case for this project is to aggregate and serve transit times from multiple source locations to a single target destination in a major transit hub. We’ve identified Penn Station in NY as our target destination and will provide commuter transit times (driving) from 3 source locations. 
