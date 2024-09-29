@@ -7,7 +7,7 @@ Authors: _Josh B_ - _Shruti S_ - _Alex H_
 ## Objective:
 The use case for this project is to aggregate and serve transit times from multiple source locations to a single target destination in a major transit hub. We’ve identified Penn Station in NY as our target destination and will provide commuter transit times (driving) from 3 source locations. 
 
-**Note: This repo is meant to be run in production using AWS. To clone code to run on your local machine, see the travel_time_local repo.
+**Note: This repo was developed and executed to run using a docker image and AWS services. To clone code to run on your local machine, see the travel_time_local repo.
 
 ## Consumers:
 The final data set of this project is limited to 4 locations and could be expanded to allow for many more source and destination locations. There is a wide variety of potential target consumers for the final data set if this project were expanded to allow more conifiguration of the API request. These coulde include commuters and tourists, transit planners and researchers, small businesses, and individuals looking to make use of transit data.
